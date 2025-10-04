@@ -1,0 +1,18 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+#
+# The above will handle all files NOT found below
+#
+
+# Explicitly declare text files you want to always have LF line endings.
+*.css      text
+*.html     text
+*.js       text
+*.json     text
+*.jsx      text
+*.md       text
+*.ts       text
+*.tsx      text
+.gitignore text
+.gitattributes text
