@@ -13,7 +13,7 @@ SmartStack integrates a selection of popular and efficient tools:
 - **Backend**:
   - [**Supabase**](https://supabase.io/): An open-source Firebase alternative for building secure and scalable backends. It provides a Postgres database, authentication, instant APIs, and more.
 - **Styling**:
-  - _(You can add your styling solution here, e.g., Tailwind CSS, Shadcn/ui, etc.)_
+  - _Tailwind_
 
 ## 📋 Prerequisites
 
